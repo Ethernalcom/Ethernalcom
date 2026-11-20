@@ -20,7 +20,7 @@ Check it out!
 <a href="https://github.com/ARC-DM/ARC">
     <picture align="center">
     <source height="45" media="(prefers-color-scheme: dark)" srcset="https://github.com/ARC-DM/ARC/raw/master/docs/static/ARC-Logo-Light.svg">
-    <img height="45" alt="Arc Logo" src="https://github.com/ARC-DM/ARC/raw/master/docs/static/ARC-Logo-Dark.svg">
+    <source height="45" alt="Arc Logo" media="(prefers-color-scheme: light)" srcset="https://github.com/ARC-DM/ARC/raw/master/docs/static/ARC-Logo-Dark.svg">
   </picture>
 </a>
 
